@@ -3,13 +3,22 @@
   "version": "1.0.0",
   "description": "Client api for getting Covid-19 data from Official github repo of Ministry of Health of Malaysis",
   "main": "index.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	"scripts": {
+    "build": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADIBzTER/covid-my.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ADIBzTER/covid-my/issues"
+  },
+  "homepage": "https://github.com/ADIBzTER/covid-my#readme",
   "keywords": [
     "covid",
     "malaysia",
     "mysejahtera",
+		"vaccination",
     "data",
     "api"
   ],
