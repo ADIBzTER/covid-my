@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "outDir": "lib",
+    "strict": false,
+    "esModuleInterop": true,
+    "target": "ES5",
+    "baseUrl": "./src",
+    "declaration": true,
+		"lib": ["ES2015"]
+  },
+  "compileOnSave": true,
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "covid-my",
+  "version": "1.0.0",
+  "description": "Client api for getting Covid-19 data from Official github repo of Ministry of Health of Malaysis",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "covid",
+    "malaysia",
+    "mysejahtera",
+    "data",
+    "api"
+  ],
+  "author": "Adib Zaini",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
