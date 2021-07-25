@@ -2,8 +2,8 @@
   "name": "covid-my",
   "version": "1.0.0",
   "description": "Client api for getting Covid-19 data from Official github repo of Ministry of Health of Malaysis",
-  "main": "index.ts",
-	"scripts": {
+  "main": "lib/index.js",
+  "scripts": {
     "build": "tsc"
   },
   "repository": {
@@ -18,7 +18,7 @@
     "covid",
     "malaysia",
     "mysejahtera",
-		"vaccination",
+    "vaccination",
     "data",
     "api"
   ],
