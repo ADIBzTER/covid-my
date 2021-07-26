@@ -1,7 +1,7 @@
 {
   "name": "covid-my",
-  "version": "1.0.2",
-  "description": "Client api for getting Covid-19 data from Official github repo of Ministry of Health of Malaysis",
+  "version": "1.0.3",
+  "description": "Unofficial client api for getting Covid-19 data from Official github repo of Ministry of Health of Malaysia",
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc"
